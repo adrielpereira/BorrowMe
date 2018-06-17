@@ -1,0 +1,50 @@
+C:\Users\admin\source\repos\Desafio\BorrowMe.Infra.Data\bin\Debug\BorrowMe.Infra.Data.dll.config
+C:\Users\admin\source\repos\Desafio\BorrowMe.Infra.Data\bin\Debug\BorrowMe.Infra.Data.dll
+C:\Users\admin\source\repos\Desafio\BorrowMe.Infra.Data\bin\Debug\BorrowMe.Infra.Data.pdb
+C:\Users\admin\source\repos\Desafio\BorrowMe.Infra.Data\bin\Debug\BorrowMe.Domain.dll
+C:\Users\admin\source\repos\Desafio\BorrowMe.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\admin\source\repos\Desafio\BorrowMe.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\source\repos\Desafio\BorrowMe.Infra.Data\bin\Debug\BorrowMe.Domain.pdb
+C:\Users\admin\source\repos\Desafio\BorrowMe.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\admin\source\repos\Desafio\BorrowMe.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\source\repos\Desafio\BorrowMe.Infra.Data\obj\Debug\BorrowMe.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\Desafio\BorrowMe.Infra.Data\obj\Debug\BorrowMe.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Desafio\BorrowMe.Infra.Data\obj\Debug\BorrowMe.Infra.Data.csproj.CopyComplete
+C:\Users\admin\source\repos\Desafio\BorrowMe.Infra.Data\obj\Debug\BorrowMe.Infra.Data.dll
+C:\Users\admin\source\repos\Desafio\BorrowMe.Infra.Data\obj\Debug\BorrowMe.Infra.Data.pdb
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.Infra.Data\bin\Debug\BorrowMe.Infra.Data.dll.config
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.Infra.Data\bin\Debug\BorrowMe.Infra.Data.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.Infra.Data\bin\Debug\BorrowMe.Infra.Data.pdb
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.Infra.Data\bin\Debug\BorrowMe.Domain.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.Infra.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.Infra.Data\bin\Debug\System.Web.Razor.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.Infra.Data\bin\Debug\BorrowMe.Domain.pdb
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.Infra.Data\bin\Debug\System.Web.Razor.xml
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.Infra.Data\bin\Debug\pt-br\System.Web.Razor.resources.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.Infra.Data\obj\Debug\BorrowMe.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.Infra.Data\obj\Debug\BorrowMe.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.Infra.Data\obj\Debug\BorrowMe.Infra.Data.csproj.CopyComplete
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.Infra.Data\obj\Debug\BorrowMe.Infra.Data.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.Infra.Data\obj\Debug\BorrowMe.Infra.Data.pdb
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Infra.Data\bin\Debug\BorrowMe.Infra.Data.dll.config
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Infra.Data\bin\Debug\BorrowMe.Infra.Data.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Infra.Data\bin\Debug\BorrowMe.Infra.Data.pdb
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Infra.Data\bin\Debug\BorrowMe.Domain.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Infra.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Infra.Data\bin\Debug\System.Web.Razor.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Infra.Data\bin\Debug\BorrowMe.Domain.pdb
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Infra.Data\bin\Debug\System.Web.Razor.xml
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Infra.Data\bin\Debug\pt-br\System.Web.Razor.resources.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Infra.Data\obj\Debug\BorrowMe.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Infra.Data\obj\Debug\BorrowMe.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Infra.Data\obj\Debug\BorrowMe.Infra.Data.csproj.CopyComplete
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Infra.Data\obj\Debug\BorrowMe.Infra.Data.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Infra.Data\obj\Debug\BorrowMe.Infra.Data.pdb

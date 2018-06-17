@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Desafio\BorrowMe.Domain\bin\Debug\BorrowMe.Domain.dll
+C:\Users\admin\source\repos\Desafio\BorrowMe.Domain\bin\Debug\BorrowMe.Domain.pdb
+C:\Users\admin\source\repos\Desafio\BorrowMe.Domain\obj\Debug\BorrowMe.Domain.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Desafio\BorrowMe.Domain\obj\Debug\BorrowMe.Domain.dll
+C:\Users\admin\source\repos\Desafio\BorrowMe.Domain\obj\Debug\BorrowMe.Domain.pdb
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.Domain\bin\Debug\BorrowMe.Domain.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.Domain\bin\Debug\BorrowMe.Domain.pdb
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.Domain\obj\Debug\BorrowMe.Domain.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.Domain\obj\Debug\BorrowMe.Domain.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.Domain\obj\Debug\BorrowMe.Domain.pdb
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Domain\bin\Debug\BorrowMe.Domain.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Domain\bin\Debug\BorrowMe.Domain.pdb
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Domain\obj\Debug\BorrowMe.Domain.csprojResolveAssemblyReference.cache
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Domain\obj\Debug\BorrowMe.Domain.csproj.CoreCompileInputs.cache
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Domain\obj\Debug\BorrowMe.Domain.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Domain\obj\Debug\BorrowMe.Domain.pdb

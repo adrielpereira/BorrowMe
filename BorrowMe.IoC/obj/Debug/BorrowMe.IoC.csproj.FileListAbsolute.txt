@@ -1,0 +1,11 @@
+C:\Users\adrie\source\repos\BorrowMe\BorrowMe.IoC\bin\Debug\BorrowMe.IoC.dll.config
+C:\Users\adrie\source\repos\BorrowMe\BorrowMe.IoC\bin\Debug\BorrowMe.IoC.dll
+C:\Users\adrie\source\repos\BorrowMe\BorrowMe.IoC\bin\Debug\BorrowMe.IoC.pdb
+C:\Users\adrie\source\repos\BorrowMe\BorrowMe.IoC\bin\Debug\EntityFramework.dll
+C:\Users\adrie\source\repos\BorrowMe\BorrowMe.IoC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adrie\source\repos\BorrowMe\BorrowMe.IoC\bin\Debug\EntityFramework.xml
+C:\Users\adrie\source\repos\BorrowMe\BorrowMe.IoC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adrie\source\repos\BorrowMe\BorrowMe.IoC\obj\Debug\BorrowMe.IoC.csproj.CoreCompileInputs.cache
+C:\Users\adrie\source\repos\BorrowMe\BorrowMe.IoC\obj\Debug\BorrowMe.IoC.csproj.CopyComplete
+C:\Users\adrie\source\repos\BorrowMe\BorrowMe.IoC\obj\Debug\BorrowMe.IoC.dll
+C:\Users\adrie\source\repos\BorrowMe\BorrowMe.IoC\obj\Debug\BorrowMe.IoC.pdb

@@ -1,0 +1,76 @@
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\BorrowMe.IoC.dll.config
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\BorrowMe.IoC.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\BorrowMe.IoC.pdb
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\BorrowMe.Domain.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\BorrowMe.Infra.CrossCutting.Identity.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\BorrowMe.Infra.Data.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\SimpleInjector.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\Microsoft.Owin.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\System.Web.Mvc.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\Owin.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\System.Web.WebPages.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\System.Web.Razor.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\BorrowMe.Domain.pdb
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\BorrowMe.Infra.CrossCutting.Identity.pdb
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\BorrowMe.Infra.CrossCutting.Identity.dll.config
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\BorrowMe.Infra.Data.pdb
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\BorrowMe.Infra.Data.dll.config
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\SimpleInjector.xml
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\Microsoft.Owin.xml
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\System.Web.Mvc.xml
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\System.Web.WebPages.xml
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\System.Web.Razor.xml
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\obj\Debug\BorrowMe.Infra.CrossCutting.IoC.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\obj\Debug\BorrowMe.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\obj\Debug\BorrowMe.Infra.CrossCutting.IoC.csproj.CopyComplete
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\obj\Debug\BorrowMe.IoC.dll
+C:\Users\admin\Downloads\BorrowMe-001\BorrowMe\BorrowMe.IoC\obj\Debug\BorrowMe.IoC.pdb
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.IoC\bin\Debug\BorrowMe.IoC.dll.config
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.IoC\bin\Debug\BorrowMe.IoC.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.IoC\bin\Debug\BorrowMe.IoC.pdb
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.IoC\bin\Debug\BorrowMe.Application.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.IoC\bin\Debug\BorrowMe.Domain.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.IoC\bin\Debug\BorrowMe.Infra.Data.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.IoC\bin\Debug\EntityFramework.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.IoC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.IoC\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.IoC\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.IoC\bin\Debug\SimpleInjector.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.IoC\bin\Debug\BorrowMe.Application.pdb
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.IoC\bin\Debug\BorrowMe.Application.dll.config
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.IoC\bin\Debug\BorrowMe.Domain.pdb
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.IoC\bin\Debug\BorrowMe.Infra.Data.pdb
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.IoC\bin\Debug\BorrowMe.Infra.Data.dll.config
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.IoC\bin\Debug\EntityFramework.xml
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.IoC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.IoC\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.IoC\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.IoC\bin\Debug\SimpleInjector.xml
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.IoC\obj\Debug\BorrowMe.Infra.CrossCutting.IoC.csprojResolveAssemblyReference.cache
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.IoC\obj\Debug\BorrowMe.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.IoC\obj\Debug\BorrowMe.Infra.CrossCutting.IoC.csproj.CopyComplete
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.IoC\obj\Debug\BorrowMe.IoC.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.IoC\obj\Debug\BorrowMe.IoC.pdb

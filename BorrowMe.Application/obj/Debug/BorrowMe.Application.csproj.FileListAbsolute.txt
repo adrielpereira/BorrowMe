@@ -1,0 +1,12 @@
+C:\Users\adrie\source\repos\BorrowMe-Old\BorrowMe.Application\obj\Debug\BorrowMe.Application.csproj.CoreCompileInputs.cache
+C:\Users\adrie\source\repos\BorrowMe-Old\BorrowMe.Application\obj\Debug\BorrowMe.Application.csprojResolveAssemblyReference.cache
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Application\bin\Debug\BorrowMe.Application.dll.config
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Application\bin\Debug\BorrowMe.Application.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Application\bin\Debug\BorrowMe.Application.pdb
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Application\bin\Debug\BorrowMe.Domain.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Application\bin\Debug\BorrowMe.Domain.pdb
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Application\obj\Debug\BorrowMe.Application.csprojResolveAssemblyReference.cache
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Application\obj\Debug\BorrowMe.Application.csproj.CoreCompileInputs.cache
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Application\obj\Debug\BorrowMe.Application.csproj.CopyComplete
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Application\obj\Debug\BorrowMe.Application.dll
+C:\Users\adrie\OneDrive\Área de Trabalho\BorrowMe\BorrowMe.Application\obj\Debug\BorrowMe.Application.pdb
