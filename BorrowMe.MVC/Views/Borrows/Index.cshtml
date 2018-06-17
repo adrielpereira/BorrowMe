@@ -1,0 +1,58 @@
+﻿@model IEnumerable<BorrowMe.MVC.ViewModels.BorrowViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Lista de Empréstimos</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.UserId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GameId)
+        </th>
+        <th>
+            Proprietário
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BorrowedAt)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ReturnDate)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.User.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Game.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Game.User.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BorrowedAt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReturnDate)
+            </td>
+            <td>
+                @if (item.ReturnDate == null && (long)ViewBag.UserLogged == item.UserId) 
+                {
+                    @Html.ActionLink("Devolver", "ReturnBorrow", new { id = item.Id })
+                }
+                @Html.ActionLink("Detalhes", "Details", new { id = item.Id })
+                @Html.ActionLink("Deletar", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+
+</table>

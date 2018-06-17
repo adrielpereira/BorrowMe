@@ -1,0 +1,55 @@
+﻿@model BorrowMe.MVC.ViewModels.BorrowViewModel
+
+@{
+    ViewBag.Title = "Devolução";
+}
+
+<h2>Devolução de Empréstimo</h2>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.UserId)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.User.Name)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.BorrowedAt)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.BorrowedAt)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.GameId)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Game.Title)
+            </dd>
+
+            <dt>
+                Proprietário
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Game.User.Name)
+            </dd>
+
+        </dl>
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Devolver" class="btn btn-default" />
+        </div>
+    </div>   
+}
+<p>
+    @Html.ActionLink("Voltar", "Index")
+</p>

@@ -1,0 +1,74 @@
+﻿@model IEnumerable<BorrowMe.MVC.ViewModels.GameViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+<h2>Lista de Jogos</h2>
+@using (Html.BeginForm("SearchByTitle", "Games"))
+{
+    @Html.AntiForgeryToken()
+    <div class="row">
+        <div class="col-lg-4 pull-right">
+            <div class="input-group">
+                <span class="input-group-btn">
+                    <button class="btn btn-default" type="submit">Pesquisar!</button>
+                </span>
+                <input type="text" class="form-control" name="texto" placeholder="Pesquisar por...">
+            </div>
+        </div>
+    </div>
+}
+<p>
+    @Html.ActionLink("Adicionar", "Create")
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsActive)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsBorrowed)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UserId)
+        </th>
+        <th>Empréstimos</th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsActive)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsBorrowed)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.User.Name)
+            </td>
+            <td>
+                @Html.ActionLink("Empréstimos", "BorrowsByGame", "Borrows", new { id = item.Id }, null)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id = item.Id }) |
+                @Html.ActionLink("Detalhes", "Details", new { id = item.Id }) |
+                @Html.ActionLink("Deletar", "Delete", new { id = item.Id })  |
+
+                @if ((long)ViewBag.UserLogged != item.UserId)
+                {
+                    @Html.ActionLink("Pegar Emprestado", "Create", "Borrows", new { id = item.Id }, null)
+                }
+            </td>
+        </tr>
+    }
+
+</table>

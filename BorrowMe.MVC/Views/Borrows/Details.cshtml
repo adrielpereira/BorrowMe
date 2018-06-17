@@ -1,0 +1,40 @@
+﻿@model BorrowMe.MVC.ViewModels.BorrowViewModel
+
+@{
+    ViewBag.Title = "Detalhes";
+}
+
+<h2>Empréstimo - @Model.Id</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.UserId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.User.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Game.Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Game.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BorrowedAt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BorrowedAt)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Voltar", "Index")
+</p>
